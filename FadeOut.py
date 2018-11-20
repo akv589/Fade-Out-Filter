@@ -1,5 +1,6 @@
 # program: FadeOut.py
 # author: Amarpreet Kaur
+# credits: Trevor Tomesh
 # course: CS 827
 # date: November 19th 2018
 # description: this program reads in mysteryTones.dat file, applies the Fade-Out effect and writes the output in the out.dat file.
